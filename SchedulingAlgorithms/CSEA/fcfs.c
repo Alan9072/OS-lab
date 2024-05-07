@@ -13,7 +13,7 @@ void main()
         scanf("%d",&BT[i]);
        }
        
-    //Calculating Waiting Time and Turn Around Time
+    //Calculating Waiting Time & Turn Around Time
     for (int i=0;i<limit;i++)
        {
         if (i==0)
